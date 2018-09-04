@@ -2,3 +2,4 @@ git is so cool
 im learning it
 。。。
 add ed
+GIT is we all core
